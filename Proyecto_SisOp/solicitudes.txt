@@ -1,0 +1,4 @@
+P,Calculo Diferencial,1200
+D,Algebra Lineal,1111
+R,Redes de Computadores,2222
+
